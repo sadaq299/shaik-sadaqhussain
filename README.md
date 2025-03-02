@@ -2,15 +2,18 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Shaik Sadaq Hussain and I'm a Computer Science Student </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:
+Currently pursuing Computer Science at Chaitanaya Bharathi Institute Of Technology,Proddatur
+I enjoying experimenting with healthy recipes in my spare time
+</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I love coding and solving problems✨<br>📚 I'm currently learning web Development and Pyhton Using AI<br>🎯 Goals:I have a passion for software Development<br>🎲 Fun fact:I enjoying experimenting with healthy recipes in my spare time<br>I love travelling and discovering new lifestyles</p>
 
 ###
 
