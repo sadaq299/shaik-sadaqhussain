@@ -2,18 +2,17 @@
 
 ###
 
-<p align="left">My name is Shaik Sadaq Hussain and I'm a Computer Science Student </p>
+<p align="left">My name is Shaik Sadaq Hussain and I'm a Computer Science student </p>
 
 ###
 
 <h2 align="left">About me:
 Currently pursuing Computer Science at Chaitanaya Bharathi Institute Of Technology,Proddatur
-I enjoying experimenting with healthy recipes in my spare time
 </h2>
 
 ###
 
-<p align="left">I love coding and solving problems✨<br>📚 I'm currently learning web Development and Pyhton Using AI<br>🎯 Goals:I have a passion for software Development<br>🎲 Fun fact:I enjoying experimenting with healthy recipes in my spare time<br>I love travelling and discovering new lifestyles</p>
+<p align="left">💻I love coding and solving problems<br>📚 I'm currently learning web Development and Pyhton Using AI<br>🎯 Goals:Software Developer<br>🎲 Fun fact:I enjoying experimenting with healthy recipes in my spare time<br>I love travelling and discovering new lifestyles<br>How to reach me:<br>👉sadaqhussain299@gmail.com</p>
 
 ###
 
