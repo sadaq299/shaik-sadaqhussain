@@ -30,8 +30,7 @@ Currently pursuing Computer Science at Chaitanaya Bharathi Institute Of Technolo
   <img src="https://tse2.mm.bing.net/th?id=OIP.hG6v403fXEtFUUkC_PUq2QHaKt&pid=Api&P=0&h=180" height="40" alt="CSS logo"  />
   <img width="12" />
   <img src="https://tse1.mm.bing.net/th?id=OIP.jap_cRszSOiPk-lu65mFLwHaEK&pid=Api&P=0&h=180" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+ 
   <img width="12" />
   <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" height="40" alt="py logo"  />
 </div>
