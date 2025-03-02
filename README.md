@@ -33,9 +33,7 @@ Currently pursuing Computer Science at Chaitanaya Bharathi Institute Of Technolo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="C:\Users\DELL\OneDrive\Documents\imagepy.jpeg" height="40" alt="imagepy logo"  />
+  <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" height="40" alt="py logo"  />
 </div>
 
 ###
