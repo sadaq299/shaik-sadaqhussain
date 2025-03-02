@@ -12,9 +12,8 @@ Currently pursuing Computer Science at Chaitanaya Bharathi Institute Of Technolo
 
 ###
 
-<p align="left">💻I love coding and solving problems<br>📚 I'm currently learning web Development and Pyhton Using AI<br>🎯 Goals:Software Developer<br>🎲 Fun fact:I enjoying experimenting with healthy recipes in my spare time<br>I love travelling and discovering new lifestyles<br>How to reach me:<br>👉sadaqhussain299@gmail.com<br>Linkedin:www.linkedin.com/in/
-shaik-sadaq-hussain-95a395264
-Vanity URL name
+<p align="left">💻I love coding and solving problems<br>📚 I'm currently learning web Development and Pyhton Using AI<br>🎯 Goals:Software Developer<br>🎲 Fun fact:I enjoying experimenting with healthy recipes in my spare time<br>I love travelling and discovering new lifestyles<br>How to reach me:<br>👉sadaqhussain299@gmail.com<br>Linkedin:www.linkedin.com/in/shaik-sadaq-hussain-95a395264
+
 </p>
 
 ###
